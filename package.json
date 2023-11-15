@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/Gladius4413/Lab52.git"
   },
+  "keywords": ["test", "lab"],
   "author": "Bochkov Mikhail",
   "license": "MIT",
   "bugs": {

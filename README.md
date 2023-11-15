@@ -1,9 +1,9 @@
-# Название пакета
+# Package name
 
 lab5
 
-# Установка пакета
+# Install
 npm install lab5
 
-# Функционал
-myFunc() - возвращает слово "test"
+# Functions
+myFunc() - return "test"
