@@ -1,4 +1,4 @@
 function myFunc(){
     return "test";
 }
-export default myFunc;
+module.exports = myFunc;
